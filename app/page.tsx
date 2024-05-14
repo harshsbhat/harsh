@@ -38,7 +38,7 @@ export default function Home() {
           Fullstack Engineer Currently looking for newer opportunities{" "}
           <Link
             target="_blank"
-            href="https://unkey.dev"
+            href="https://harshbhat-resume.s3.ap-south-1.amazonaws.com/resume/resume.pdf"
             className="underline bold duration-500 hover:text-zinc-300"
           >
             Resume

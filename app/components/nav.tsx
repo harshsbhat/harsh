@@ -1,3 +1,4 @@
+
 "use client";
 import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
@@ -41,7 +42,7 @@ export const Navigation: React.FC = () => {
 							Contact
 						</Link>
 						<a
-							href="https://adityasupare.vercel.app/"
+							href="https://harshbhat-resume.s3.ap-south-1.amazonaws.com/resume/resume.pdf"
 							target="_blank"
 							className="duration-200 text-zinc-400 hover:text-zinc-100"
 						>
